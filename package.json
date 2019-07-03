@@ -1,0 +1,8 @@
+{
+  "name": "parse-argv",
+  "version": "0.1.0",
+  "description": "Returns an object of flags from an array.",
+  "author": "Dustin Dowell <dustindowell2@gmail.com>",
+  "license": "ISC",
+  "main": "index.js"
+}
