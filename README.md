@@ -3,8 +3,16 @@
 
 > Returns an object of flags from an array.
 
-# Use
+## Install
 
-```js
+This project is only hosted on Github. Fortunately, you can still install via npm.
+
+```
+npm i whaaaley/parse-argv
+```
+
+## Use
+
+```
 const argv = require('whaaaley/parse-argv')(process.argv)
 ```
